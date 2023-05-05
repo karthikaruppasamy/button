@@ -1,0 +1,113 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.btn{
+	border:2px solid gray;
+	margin:250px 150px 150px;
+	padding:25px;
+	display:flex;
+	justify-content:space-around;
+}
+
+.btn_primary{
+	padding:14px;
+	background-color:blue;
+	color:white;
+	border:none;
+	border-radius:5px;
+}
+
+.btn_primary:hover{
+	background-color:grey;
+	color:black;
+}
+.btn_secondary{
+	padding:14px;
+	background-color:grey;
+	color:white;
+	border:none;
+	border-radius:5px;
+}
+
+.btn_secondary:hover{
+	background-color:skyblue;
+	color:black;
+}
+
+.btn_success{
+	padding:14px;
+	background-color:green;
+	color:white;
+	border:14px;
+	border-radius:5px;
+}
+.btn_success:hover{
+    background-color:blue;
+	color:black;
+}
+
+.btn_danger{
+	padding:14px;
+	background-color:red;
+	color:black;
+	border:14px;
+	border-radius:5px;
+}
+.btn_danger:hover{
+	background-color:yellow;
+	color:black;
+}
+.btn_warning{
+	padding:14px;
+	background-color:yellow;
+	color:black;
+	border:14px;
+	border-radius:5px;
+}
+.btn_warning:hover{
+	background-color:white;
+	color:black;
+}
+.btn_info{
+	padding:14px;
+	background-color:skyblue;
+	color:black;
+	border:14px;
+	border-radius:5px;
+}
+.btn_info{
+	background-color:blue;
+	color:white;
+}
+.btn_light{
+	padding:14px;
+	background-color:white;
+	color:black;
+	border:14px;
+	border-radius:5px;
+}
+.btn_light{
+	background-color:white;
+	color:black;
+}
+.btn_dark{
+	padding:14px;
+	background-color:black;
+	color:black;
+	border:14px;
+	border-radius:5px;
+}
+.btn_dark{
+	background-color:black;
+	color:white;
+}
+	
+.link{
+	background-color:transparent;
+	padding:14px;
+	border:none;
+	color:blue;
+	border-radius:none;
+}
